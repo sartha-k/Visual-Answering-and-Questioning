@@ -1,0 +1,12 @@
+imutils
+pytesseract
+inflect
+numpy
+matplotlib
+sklearn
+webcolors
+colorthief
+torch
+torchvision
+num2words
+deeppavlov
